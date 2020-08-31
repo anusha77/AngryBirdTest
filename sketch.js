@@ -53,7 +53,7 @@ function draw(){
     box3.display();
     box4.display();
     pig3.display();
-    log3.display();
+    //log3.display();
 
     box5.display();
     log4.display();
